@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niranjana-arul, currently in my second year of biomedical engineering
+- 👋 Hi, I’m @Niranjana-arul, currently in my pre-final year of biomedical engineering
 - 👀 I’m interested in ML-DL applications in biomedical engineering, prosthetics and embedded C
 - 🌱 I’m currently learning Python, data analytics
 - 🤝 I’m looking to collaborate on ML applications on medical imaging, smart prosthetics and more!
